@@ -2,7 +2,7 @@ public class DrawRectangle {
 
     public static void main(String[] args) {
         DrawRectangle r = new DrawRectangle();
-        r.drawVoidRectangle(3,4);
+        r.drawVoidRectangle(6,4);
     }
     public void drawVoidRectangle(int wid, int len) {
         /*Scanner scanner = new Scanner(System.in);
@@ -24,10 +24,8 @@ public class DrawRectangle {
                         System.out.print(" ");
                     }
                 }
-                if (j == len - 1) {
-                    System.out.println();
-                }
             }
+            System.out.println();
         }
     }
 }
