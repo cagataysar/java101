@@ -4,7 +4,6 @@ public class DrawRectangle {
         DrawRectangle r = new DrawRectangle();
         r.drawVoidRectangle(3,4);
     }
-
     public void drawVoidRectangle(int wid, int len) {
         /*Scanner scanner = new Scanner(System.in);
         System.out.print("Length: ");
@@ -16,15 +15,11 @@ public class DrawRectangle {
             for (int j = 0; j < len; j++) {
                 if (i == 0 | i == wid - 1) {
                     System.out.print("*");
-
                 }
                 else {
                     if (j == 0 | j == len - 1) {
                         System.out.print("*");
                     }
-                    /*else if (j == len - 1) {
-                        System.out.println("*");
-                    }*/
                     else {
                         System.out.print(" ");
                     }
@@ -34,6 +29,5 @@ public class DrawRectangle {
                 }
             }
         }
-
     }
 }
