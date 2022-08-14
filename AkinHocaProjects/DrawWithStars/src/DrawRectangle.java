@@ -2,7 +2,7 @@ public class DrawRectangle {
 
     public static void main(String[] args) {
         DrawRectangle r = new DrawRectangle();
-        r.drawVoidRectangle(10,8    );
+        r.drawVoidRectangle(3,4);
     }
 
     public void drawVoidRectangle(int wid, int len) {
@@ -16,20 +16,21 @@ public class DrawRectangle {
             for (int j = 0; j < len; j++) {
                 if (i == 0 | i == wid - 1) {
                     System.out.print("*");
-                    if (j == len - 1) {
-                        System.out.println();
-                    }
+
                 }
                 else {
-                    if (j == 0) {
+                    if (j == 0 | j == len - 1) {
                         System.out.print("*");
                     }
-                    else if (j == len - 1) {
+                    /*else if (j == len - 1) {
                         System.out.println("*");
-                    }
+                    }*/
                     else {
                         System.out.print(" ");
                     }
+                }
+                if (j == len - 1) {
+                    System.out.println();
                 }
             }
         }
