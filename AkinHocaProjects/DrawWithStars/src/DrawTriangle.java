@@ -2,7 +2,7 @@ public class DrawTriangle {
 
     public static void main(String[] args) {
         DrawTriangle t = new DrawTriangle();
-        t.drawTriangle(10,19);
+        t.drawTriangle(9,15);
     }
 
     public void drawTriangle(int height, int base) {

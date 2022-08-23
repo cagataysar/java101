@@ -5,6 +5,7 @@ public class DrawFilledRectangle {
     public static void main(String[] args) {
         DrawFilledRectangle r = new DrawFilledRectangle();
         r.drawFilledRectangle(8,5);
+
     }
 
     public void drawFilledRectangle(int len, int wid) {
