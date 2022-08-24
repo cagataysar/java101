@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/DrawWithStars/DrawWithStars.iml" filepath="$PROJECT_DIR$/DrawWithStars/DrawWithStars.iml" />
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/FootballPlayer Project/FootballPlayer Project.iml" filepath="$PROJECT_DIR$/FootballPlayer Project/FootballPlayer Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MonteCarloPi/MonteCarloPi.iml" filepath="$PROJECT_DIR$/MonteCarloPi/MonteCarloPi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeparateString/SeparateString.iml" filepath="$PROJECT_DIR$/SeparateString/SeparateString.iml" />
     </modules>
   </component>
