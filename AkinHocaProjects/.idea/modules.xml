@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AkinHocaProjects.iml" filepath="$PROJECT_DIR$/.idea/AkinHocaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawShapes/DrawShapes.iml" filepath="$PROJECT_DIR$/DrawShapes/DrawShapes.iml" />
       <module fileurl="file://$PROJECT_DIR$/DrawWithStars/DrawWithStars.iml" filepath="$PROJECT_DIR$/DrawWithStars/DrawWithStars.iml" />
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/FootballPlayer Project/FootballPlayer Project.iml" filepath="$PROJECT_DIR$/FootballPlayer Project/FootballPlayer Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonteCarloPi/MonteCarloPi.iml" filepath="$PROJECT_DIR$/MonteCarloPi/MonteCarloPi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeparateString/SeparateString.iml" filepath="$PROJECT_DIR$/SeparateString/SeparateString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SieveOfEratosthenes/SieveOfEratosthenes.iml" filepath="$PROJECT_DIR$/SieveOfEratosthenes/SieveOfEratosthenes.iml" />
     </modules>
   </component>
 </project>

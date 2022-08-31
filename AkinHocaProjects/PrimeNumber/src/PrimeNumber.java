@@ -32,6 +32,7 @@ public class PrimeNumber {
     }
 
     void countNumberOfPrimesUpTo(int n) {
+        long start = System.currentTimeMillis();
         int numberOfPrimes = 0;
         for (int i = 2; i < n; i++) {
             boolean prime = isPrime(i);
@@ -39,6 +40,9 @@ public class PrimeNumber {
                 numberOfPrimes++;
             }
         }
+        long end = System.currentTimeMillis();
+        long time = end - start;
         System.out.println(n + " sayısına kadar " + numberOfPrimes + " tane asal sayı var. ");
+        System.out.println("Time: " + time + " ms.");
     }
 }
