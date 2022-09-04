@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AdvancedCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArmstrongNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayAverage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayMaxMin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ArrayTekrarEden" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AtmProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BoksOyunu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BurclarProgrami" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CiftSayiBulma" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CokBoyutluDizi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DaireHesaplamalar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EbobEkok" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FactorialProgram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HarmonicNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HavaEtkinlik" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HesapMakinesi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HipotenusHesaplama" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IkininKuvveti" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KDVHesaplayanProgram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KullaniciGirisi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MayinTarlasi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NotSistemi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PalindromNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PalindromikKelime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RecursiveFibonacci" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SayiSiralama" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SinifGecme" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaksimetreProgrami" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TekSayiToplami" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TriangleWithStars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UsluSayi" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

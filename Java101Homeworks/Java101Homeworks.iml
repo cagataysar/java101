@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ArtikYil" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AsalSayi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChineseeZodiac" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesenMetot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FibonacciSeri" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ManavKasaProgrami" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MinMaxValue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PerfectNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RecursivePower" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RecursivePrimeNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SayiTahmin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StaffSalary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TersUcgen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UcakBileti" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
