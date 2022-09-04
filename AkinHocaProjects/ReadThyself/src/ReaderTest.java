@@ -19,8 +19,6 @@ public class ReaderTest {
         book1.setCurrentPage(90);
         book1.setAuthor(new Author("Yaşar Kemal"));
         book1.reader = reader1;
-        book1.readingStatus = new ReadingStatus();
-
 
         Book book2 = new Book();
         book2.setTitle("İçimizdeki Şeytan");
